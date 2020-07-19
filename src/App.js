@@ -9,8 +9,8 @@ function App() {
       <header className="App-header">
         <BannerImage />
         <div>
-          <h1>My Photography-Blog📷</h1>
-          <h3>@vj.creation 🤵</h3>
+          <h1>Photography-Blog📷</h1>
+          <h3>by 🔥<a href="https://www.instagram.com/vj.creation" color="#FF0000">@vj.creation</a></h3>
           <AlbumMaker />
         </div>
       </header>
