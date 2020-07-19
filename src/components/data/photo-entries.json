@@ -1,0 +1,40 @@
+{
+  "itemlist" :
+  [
+    {
+      "src"      : "1.jpg",
+      "caption"  : "Jawahar Kala Kendra",
+      "location" : "Jaipur"
+    },
+
+    {
+      "src"      : "2.png",
+      "caption"  : "Amer Fort",
+      "location" : "Jaipur"
+    },
+
+    {
+      "src"      : "3.png",
+      "caption"  : "Kolkata Monsoon",
+      "location" : "Kolkata"
+    },
+
+    {
+      "src"      : "4.png",
+      "caption"  : "The Mighty Mehrangarh",
+      "location" : "Jodhpur"
+    },
+
+    {
+      "src"      : "5.png",
+      "caption"  : "Holy Heaven",
+      "location" : "JAGESHWAR, Almora"
+    },
+
+    {
+      "src"      : "6.jpg",
+      "caption"  : "Gigantic Dhauladhar",
+      "location" : "Dharamshala"
+    }
+  ]
+}
