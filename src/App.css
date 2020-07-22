@@ -12,13 +12,13 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #e6e0cc;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
