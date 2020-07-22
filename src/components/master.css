@@ -1,6 +1,9 @@
 .banner {
   max-width: 80%;
 }
+body{
+  color: #3d3d5c;
+}
 
 .flex-container {
   display: flex;
