@@ -8,11 +8,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <BannerImage />
+    <body>
         <div>
           <h1>Photography-Blog📷</h1>
           <h3>by 🔥<a href="https://www.instagram.com/vj.creation" color="#FF0000">@vj.creation</a></h3>
           <AlbumMaker />
         </div>
+    </body>
       </header>
     </div>
   );
